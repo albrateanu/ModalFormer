@@ -57,8 +57,11 @@ Note: the testing script contains two additional toggle arguments:
 
 Inference results will be saved under ```results/ValSet```. Please make sure you rename the ```ValSet``` subfolder as per your requirements, as re-running the testing script will overwrite its contents.
 
-## Contact
-Any inquiries are welcome at anon87626584317396@gmail.com
+## Citation
+
+```bash
+
+```
 
 ## Acknowledgements
 We use [this codebase](https://github.com/caiyuanhao1998/Retinexformer) as foundation for our implementation.
