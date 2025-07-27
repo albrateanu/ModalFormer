@@ -20,7 +20,7 @@ Note: in case of difficulties, ensure ```environment_setup.sh``` is executable b
 chmod +x environment_setup.sh
 ```
 
-Give the setup a couple of minutes to run and ensure internet connectivity.
+Give the setup a couple of minutes to run.
 
 ## Data and pre-trained models
 We provide test datasets for LOL-v1, LOL-v2 (Real and Synthetic), and SDSD (indoor and outdoor) with multimodal information for inference at this [Google Drive](https://drive.google.com/file/d/1BRRvr30qnoz7fmniU3IkVSBbIkss9vYq/view?usp=drive_link) address. Unzip and place the ```data``` folder under the root directory of the project.
