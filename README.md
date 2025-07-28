@@ -1,5 +1,9 @@
 # ✨ ModalFormer: Multimodal Transformer for Low-Light Image Enhancement
 
+**[Alexandru Brateanu](https://scholar.google.com/citations?user=ru0meGgAAAAJ&hl=en), [Raul Balmez](https://scholar.google.com/citations?user=vPC7raQAAAAJ&hl=en), [Ciprian Orhei](https://scholar.google.com/citations?user=DZHdq3wAAAAJ&hl=en), [Codruta Ancuti](https://scholar.google.com/citations?user=5PA43eEAAAAJ&hl=en), [Cosmin Ancuti](https://scholar.google.com/citations?user=zVTgt8IAAAAJ&hl=en)**
+
+*Low-light image enhancement (LLIE) is a fundamental yet challenging task due to the presence of noise, loss of detail, and poor contrast in images captured under insufficient lighting conditions. Recent methods often rely solely on pixel-level transformations of RGB images, neglecting the rich contextual information available from multiple visual modalities. In this paper, we present ModalFormer, the first large-scale multimodal framework for LLIE that fully exploits nine auxiliary modalities to achieve state-of-the-art performance. Our model comprises two main components: a Cross-modal Transformer (CM-T) designed to restore corrupted images while seamlessly integrating multimodal information, and multiple auxiliary subnetworks dedicated to multimodal feature reconstruction. Central to the CM-T is our novel Cross-modal Multi-headed Self-Attention mechanism (CM-MSA), which effectively fuses RGB data with modality-specific features—including deep feature embeddings, segmentation information, geometric cues, and color information—to generate information-rich hybrid attention maps. Extensive experiments on multiple benchmark datasets demonstrate ModalFormer’s state-of-the-art performance in LLIE. Pre-trained models and results are made available at https://github.com/albrateanu/ModalFormer*
+
 ## 🆕 Updates
 - `27.07.2025` 📦 Pre-trained models and test data published! HuggingFace demo coming soon — stay tuned!
 
