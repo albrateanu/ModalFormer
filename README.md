@@ -74,7 +74,7 @@ Inference results will be saved under ```results/ValSet```. Please make sure you
 ## 📚 Citation
 
 ```
-@misc{brateanu2025modalformermultimodaltransformerlowlight,
+@misc{brateanu2025modalformer,
       title={ModalFormer: Multimodal Transformer for Low-Light Image Enhancement}, 
       author={Alexandru Brateanu and Raul Balmez and Ciprian Orhei and Codruta Ancuti and Cosmin Ancuti},
       year={2025},
