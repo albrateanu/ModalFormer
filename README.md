@@ -73,7 +73,15 @@ Inference results will be saved under ```results/ValSet```. Please make sure you
 ## 📚 Citation
 
 ```bash
-
+@misc{brateanu2025modalformermultimodaltransformerlowlight,
+      title={ModalFormer: Multimodal Transformer for Low-Light Image Enhancement}, 
+      author={Alexandru Brateanu and Raul Balmez and Ciprian Orhei and Codruta Ancuti and Cosmin Ancuti},
+      year={2025},
+      eprint={2507.20388},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.20388}, 
+}
 ```
 
 ## 🙏 Acknowledgements
