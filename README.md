@@ -5,6 +5,10 @@
 **[Alexandru Brateanu](https://scholar.google.com/citations?user=ru0meGgAAAAJ&hl=en), [Raul Balmez](https://scholar.google.com/citations?user=vPC7raQAAAAJ&hl=en), [Ciprian Orhei](https://scholar.google.com/citations?user=DZHdq3wAAAAJ&hl=en), [Codruta Ancuti](https://scholar.google.com/citations?user=5PA43eEAAAAJ&hl=en), [Cosmin Ancuti](https://scholar.google.com/citations?user=zVTgt8IAAAAJ&hl=en)**
 
 [![arXiv](https://img.shields.io/badge/arxiv-paper-179bd3)](https://arxiv.org/abs/2401.15204)
+
+[![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-green)](https://huggingface.co/papers/2507.20388)
+
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-green)](https://huggingface.co/albrateanu/ModalFormer)
 </div>
 
 ### Abstract
